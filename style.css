@@ -1,0 +1,18 @@
+body{
+    padding: auto;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+
+p{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 100px;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(21, 185, 9);
+}
